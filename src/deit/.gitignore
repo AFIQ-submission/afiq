@@ -1,0 +1,9 @@
+.env/
+mispredictions.csv
+act_neg/
+act_neg_outliers/
+act_neg_outliers_processed/
+act_neg_outliers_processed_bak/
+act_neg_porcessed/
+quantized_loss/
+imx*.png
