@@ -1,0 +1,10 @@
+
+mixed
+Runtime of compute kernel with INT4 length_m : 5120 length_n : 4096 length_k : 4096 INT8 length_m : 5120 length_n : 4096 length_k : 4096: 0.0100792 seconds (10.0792 milliseconds)
+Runtime of compute kernel with INT4 length_m : 10240 length_n : 8192 length_k : 8192 INT8 length_m : 10240 length_n : 8192 length_k : 8192: 0.0767282 seconds (76.7282 milliseconds)
+int4
+Runtime of compute kernel with INT4 length_m : 5120 length_n : 4096 length_k : 4096 INT8 length_m : 5120 length_n : 4096 length_k : 4096: 0.00648443 seconds (6.48443 milliseconds)
+Runtime of compute kernel with INT4 length_m : 10240 length_n : 8192 length_k : 8192 INT8 length_m : 10240 length_n : 8192 length_k : 8192: 0.0683972 seconds (68.3972 milliseconds)
+int8
+Runtime of compute kernel with INT4 length_m : 5120 length_n : 4096 length_k : 4096 INT8 length_m : 5120 length_n : 4096 length_k : 4096: 0.0137691 seconds (13.7691 milliseconds)
+Runtime of compute kernel with INT4 length_m : 10240 length_n : 8192 length_k : 8192 INT8 length_m : 10240 length_n : 8192 length_k : 8192: 0.0992815 seconds (99.2815 milliseconds)
